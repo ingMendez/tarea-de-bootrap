@@ -36,9 +36,13 @@
                             </a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                                 <a class="dropdown-item" href="Ejemplo1.aspx">Ejemplo1.aspx</>                     
-                                 <a class="dropdown-item"href="EjemploContenedor02.aspx">Ejemplo de contenedores.aspx</a>
-                                    <a class="dropdown-item"href="contenedor03.aspx">Ejemplo de contenedores fluido.aspx</a>
-
+                                 <a class="dropdown-item"href="EjemploContenedor02.aspx">Ejemplo de contenedores</a>
+                                    <a class="dropdown-item"href="contenedore03.aspx">Ejemplo de contenedores fluido</a>
+                                      <a class="dropdown-item"href=" Cuadricula04.aspx">Ejemplo decuadricula</a>
+                                      <a class="dropdown-item"href="BloqueTexto05.aspx">Tipografia</a>
+                                      <a class="dropdown-item"href="ColorBootstrap.aspx">colores en bootstrap</a>
+                                      <a class="dropdown-item"href="contenedor03.aspx">Ejemplo de contenedores fluido.aspx</a>
+                                   
                             </div>
                         </li>
                         <li class="nav-item dropdown">
