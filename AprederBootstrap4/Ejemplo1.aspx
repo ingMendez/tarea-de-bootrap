@@ -16,26 +16,31 @@
 <body>
 
 <div class="jumbotron text-center">
-  <h1>My primera pagina web </h1>
-  <p>Resize this responsive page to see the effect!</p> 
+  <h1>Sugerencias del programador </h1>
+  <p>Ing.Reydi alejandro Mendez Suarez</p> 
 </div>
   
 <div class="container">
   <div class="row">
     <div class="col-sm-4">
-      <h3>Column 1</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+      <h3>Visual Basic</h3>
+      <p>Visual Basic es un lenguaje de programación dirigido por eventos,desarrollado por Alan Cooper para Microsoft.
+      Este lenguaje de programación es un dialecto de BASIC,con importantes agregados.</p>
+     
     </div>
     <div class="col-sm-4">
-      <h3>Column 2</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+      <h3>C#</h3>
+      <p>C# es un lenguaje de programación orientado a objetos desarrollado y estandarizado por Microsoft como parte de su plataforma .NET,
+          que después fue aprobado como un estándar por la ECMA e ISO.
+          C# es uno de los lenguajes de programación diseñados para la infraestructura de lenguaje común. </p>
+     
     </div>
     <div class="col-sm-4">
-      <h3>Column 3</h3>        
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+      <h3>C++</h3>        
+      <p>C++ es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup.
+          La intención de su creación fue extender al lenguaje de programación C mecanismos que permiten la manipulación de objetos.
+          En ese sentido, desde el punto de vista de los lenguajes orientados a objetos, el C++ es un lenguaje híbrido.</p>
+     
     </div>
   </div>
 </div>
