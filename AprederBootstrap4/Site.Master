@@ -41,7 +41,39 @@
                                       <a class="dropdown-item"href=" Cuadricula04.aspx">Ejemplo decuadricula</a>
                                       <a class="dropdown-item"href="BloqueTexto05.aspx">Tipografia</a>
                                       <a class="dropdown-item"href="ColorBootstrap.aspx">colores en bootstrap</a>
-                                      <a class="dropdown-item"href="contenedor03.aspx">Ejemplo de contenedores fluido.aspx</a>
+                                      <a class="dropdown-item"href="Bs4Badges.aspx">badges</a>
+                                     <a class="dropdown-item"href="Bs4Botones.aspx">Botones</a>
+                                     <a class="dropdown-item"href="Bs4ButtonGroups.aspx">Bs4ButtonGroups</>
+                                     <a class="dropdown-item"href="Bs4Cards.aspx">Bs4Cards</a>
+                                     <a class="dropdown-item"href="Bs4Carousel.aspx">Bs4Carousel</a>
+                                     <a class="dropdown-item"href="Bs4Collapse.aspx">Bs4Collapse</a>
+                                     <a class="dropdown-item" href="Bs4CustomForms.aspx">Bs4CustomForms</a>
+                                     <a class="dropdown-item"href="Bs4Dropdowns.aspx">Bs4Dropdowns</a>
+                                     <a class="dropdown-item"href="Bs4Filters.aspx">Bs4Filters</a>
+                                     <a class="dropdown-item"href="Bs4Flex.aspx">Bs4Flex</a>
+                                     <a class="dropdown-item"href="Bs4Forms.aspx">Bs4Forms</a>
+                                     <a class="dropdown-item"href="Bs4GridSystem.aspx">Bs4GridSystem</a>
+                                     <a class="dropdown-item"href="Bs4GridXsmall.aspx">Bs4GridXsmall</a>
+                                     <a class="dropdown-item"href="Bs4Grupos.aspx">Bs4Grupos</a>
+                                     <a class="dropdown-item"href="Bs4Icons.aspx">Bs4Icons</a>
+                                     <a class="dropdown-item"href="Bs4InputGroups.aspx">Bs4InputGroups</a>
+                                     <a class="dropdown-item"href="Bs4Inputs.aspx">Bs4Inputs</a>
+                                     <a class="dropdown-item"href="Bs4LisTGrups.aspx">Bs4LisTGrups</a>
+                                     <a class="dropdown-item"href="Bs4MediaObjects.aspx">Bs4MediaObjects</a>
+                                     <a class="dropdown-item"href="Bs4Modal.aspx">Bs4Modal</a>
+                                     <a class="dropdown-item"href="Bs4Navbar.aspx">Bs4Navbar</a>
+                                     <a class="dropdown-item"href="Bs4Navs.aspx">Bs4Navs</a>
+                                     <a class="dropdown-item"href="Bs4Popover.aspx">Bs4Popover</a>
+                                     <a class="dropdown-item"href="Bs4ProgreBars.aspx">Bs4ProgreBars</a>
+                                     <a class="dropdown-item"href="Bs4Scrollspy.aspx">Bs4Scrollspy</a>
+                                     <a class="dropdown-item"href="Bs4Spinners.aspx">Bs4Spinners</a>
+                                     <a class="dropdown-item"href="Bs4StrackedHorizontal.aspx">Bs4StrackedHorizontal</a>
+                                     <a class="dropdown-item"href="Bs4Toast.aspx">Bs4Toast</a>
+                                     <a class="dropdown-item"href="Bs4Tooltip.aspx">Bs4Tooltip</a>
+                                     <a class="dropdown-item"href="Bs4Utilities.aspx">Bs4Utilities</a>
+                                     <a class="dropdown-item"href="Jumbotrom.aspx">Jumbotrom</a>
+                                     <a class="dropdown-item"href="Ps4Paginacion.aspx">Ps4Paginacion</a>
+                                 
                                    
                             </div>
                         </li>

@@ -69,7 +69,38 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Alertas.aspx" />
     <Content Include="BloqueTexto05.aspx" />
+    <Content Include="Bs4Badges.aspx" />
+    <Content Include="Bs4Botones.aspx" />
+    <Content Include="Bs4ButtonGroups.aspx" />
+    <Content Include="Bs4Cards.aspx" />
+    <Content Include="Bs4Carousel.aspx" />
+    <Content Include="Bs4Collapse.aspx" />
+    <Content Include="Bs4CustomForms.aspx" />
+    <Content Include="Bs4Dropdowns.aspx" />
+    <Content Include="Bs4Filters.aspx" />
+    <Content Include="Bs4Flex.aspx" />
+    <Content Include="Bs4Forms.aspx" />
+    <Content Include="Bs4GridSystem.aspx" />
+    <Content Include="Bs4GridXsmall.aspx" />
+    <Content Include="Bs4Grupos.aspx" />
+    <Content Include="Bs4Icons.aspx" />
+    <Content Include="Bs4InputGroups.aspx" />
+    <Content Include="Bs4Inputs.aspx" />
+    <Content Include="Bs4LisTGrups.aspx" />
+    <Content Include="Bs4MediaObjects.aspx" />
+    <Content Include="Bs4Modal.aspx" />
+    <Content Include="Bs4Navbar.aspx" />
+    <Content Include="Bs4Navs.aspx" />
+    <Content Include="Bs4Popover.aspx" />
+    <Content Include="Bs4ProgreBars.aspx" />
+    <Content Include="Bs4Scrollspy.aspx" />
+    <Content Include="Bs4Spinners.aspx" />
+    <Content Include="Bs4StrackedHorizontal.aspx" />
+    <Content Include="Bs4Toast.aspx" />
+    <Content Include="Bs4Tooltip.aspx" />
+    <Content Include="Bs4Utilities.aspx" />
     <Content Include="ColorBootstrap.aspx" />
     <Content Include="contenedore03.aspx" />
     <Content Include="Content\bootstrap-grid.css" />
@@ -84,6 +115,8 @@
     <Content Include="EjemploContenedor02.aspx" />
     <Content Include="Global.asax" />
     <Content Include="ImagenesBootstrap.aspx" />
+    <Content Include="Jumbotrom.aspx" />
+    <Content Include="Ps4Paginacion.aspx" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.js" />
@@ -133,12 +166,229 @@
     <Content Include="Site.Master" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Alertas.aspx.cs">
+      <DependentUpon>Alertas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Alertas.aspx.designer.cs">
+      <DependentUpon>Alertas.aspx</DependentUpon>
+    </Compile>
     <Compile Include="BloqueTexto05.aspx.cs">
       <DependentUpon>BloqueTexto05.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="BloqueTexto05.aspx.designer.cs">
       <DependentUpon>BloqueTexto05.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Bs4Badges.aspx.cs">
+      <DependentUpon>Bs4Badges.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Bs4Badges.aspx.designer.cs">
+      <DependentUpon>Bs4Badges.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Bs4Botones.aspx.cs">
+      <DependentUpon>Bs4Botones.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Bs4Botones.aspx.designer.cs">
+      <DependentUpon>Bs4Botones.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Bs4ButtonGroups.aspx.cs">
+      <DependentUpon>Bs4ButtonGroups.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Bs4ButtonGroups.aspx.designer.cs">
+      <DependentUpon>Bs4ButtonGroups.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Bs4Cards.aspx.cs">
+      <DependentUpon>Bs4Cards.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Bs4Cards.aspx.designer.cs">
+      <DependentUpon>Bs4Cards.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Bs4Carousel.aspx.cs">
+      <DependentUpon>Bs4Carousel.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Bs4Carousel.aspx.designer.cs">
+      <DependentUpon>Bs4Carousel.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Bs4Collapse.aspx.cs">
+      <DependentUpon>Bs4Collapse.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Bs4Collapse.aspx.designer.cs">
+      <DependentUpon>Bs4Collapse.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Bs4CustomForms.aspx.cs">
+      <DependentUpon>Bs4CustomForms.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Bs4CustomForms.aspx.designer.cs">
+      <DependentUpon>Bs4CustomForms.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Bs4Dropdowns.aspx.cs">
+      <DependentUpon>Bs4Dropdowns.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Bs4Dropdowns.aspx.designer.cs">
+      <DependentUpon>Bs4Dropdowns.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Bs4Filters.aspx.cs">
+      <DependentUpon>Bs4Filters.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Bs4Filters.aspx.designer.cs">
+      <DependentUpon>Bs4Filters.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Bs4Flex.aspx.cs">
+      <DependentUpon>Bs4Flex.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Bs4Flex.aspx.designer.cs">
+      <DependentUpon>Bs4Flex.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Bs4Forms.aspx.cs">
+      <DependentUpon>Bs4Forms.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Bs4Forms.aspx.designer.cs">
+      <DependentUpon>Bs4Forms.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Bs4GridSystem.aspx.cs">
+      <DependentUpon>Bs4GridSystem.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Bs4GridSystem.aspx.designer.cs">
+      <DependentUpon>Bs4GridSystem.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Bs4GridXsmall.aspx.cs">
+      <DependentUpon>Bs4GridXsmall.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Bs4GridXsmall.aspx.designer.cs">
+      <DependentUpon>Bs4GridXsmall.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Bs4Grupos.aspx.cs">
+      <DependentUpon>Bs4Grupos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Bs4Grupos.aspx.designer.cs">
+      <DependentUpon>Bs4Grupos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Bs4Icons.aspx.cs">
+      <DependentUpon>Bs4Icons.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Bs4Icons.aspx.designer.cs">
+      <DependentUpon>Bs4Icons.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Bs4InputGroups.aspx.cs">
+      <DependentUpon>Bs4InputGroups.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Bs4InputGroups.aspx.designer.cs">
+      <DependentUpon>Bs4InputGroups.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Bs4Inputs.aspx.cs">
+      <DependentUpon>Bs4Inputs.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Bs4Inputs.aspx.designer.cs">
+      <DependentUpon>Bs4Inputs.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Bs4LisTGrups.aspx.cs">
+      <DependentUpon>Bs4LisTGrups.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Bs4LisTGrups.aspx.designer.cs">
+      <DependentUpon>Bs4LisTGrups.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Bs4MediaObjects.aspx.cs">
+      <DependentUpon>Bs4MediaObjects.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Bs4MediaObjects.aspx.designer.cs">
+      <DependentUpon>Bs4MediaObjects.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Bs4Modal.aspx.cs">
+      <DependentUpon>Bs4Modal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Bs4Modal.aspx.designer.cs">
+      <DependentUpon>Bs4Modal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Bs4Navbar.aspx.cs">
+      <DependentUpon>Bs4Navbar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Bs4Navbar.aspx.designer.cs">
+      <DependentUpon>Bs4Navbar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Bs4Navs.aspx.cs">
+      <DependentUpon>Bs4Navs.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Bs4Navs.aspx.designer.cs">
+      <DependentUpon>Bs4Navs.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Bs4Popover.aspx.cs">
+      <DependentUpon>Bs4Popover.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Bs4Popover.aspx.designer.cs">
+      <DependentUpon>Bs4Popover.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Bs4ProgreBars.aspx.cs">
+      <DependentUpon>Bs4ProgreBars.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Bs4ProgreBars.aspx.designer.cs">
+      <DependentUpon>Bs4ProgreBars.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Bs4Scrollspy.aspx.cs">
+      <DependentUpon>Bs4Scrollspy.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Bs4Scrollspy.aspx.designer.cs">
+      <DependentUpon>Bs4Scrollspy.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Bs4Spinners.aspx.cs">
+      <DependentUpon>Bs4Spinners.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Bs4Spinners.aspx.designer.cs">
+      <DependentUpon>Bs4Spinners.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Bs4StrackedHorizontal.aspx.cs">
+      <DependentUpon>Bs4StrackedHorizontal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Bs4StrackedHorizontal.aspx.designer.cs">
+      <DependentUpon>Bs4StrackedHorizontal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Bs4Toast.aspx.cs">
+      <DependentUpon>Bs4Toast.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Bs4Toast.aspx.designer.cs">
+      <DependentUpon>Bs4Toast.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Bs4Tooltip.aspx.cs">
+      <DependentUpon>Bs4Tooltip.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Bs4Tooltip.aspx.designer.cs">
+      <DependentUpon>Bs4Tooltip.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Bs4Utilities.aspx.cs">
+      <DependentUpon>Bs4Utilities.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Bs4Utilities.aspx.designer.cs">
+      <DependentUpon>Bs4Utilities.aspx</DependentUpon>
     </Compile>
     <Compile Include="ColorBootstrap.aspx.cs">
       <DependentUpon>ColorBootstrap.aspx</DependentUpon>
@@ -192,7 +442,21 @@
     <Compile Include="ImagenesBootstrap.aspx.designer.cs">
       <DependentUpon>ImagenesBootstrap.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Jumbotrom.aspx.cs">
+      <DependentUpon>Jumbotrom.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Jumbotrom.aspx.designer.cs">
+      <DependentUpon>Jumbotrom.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Ps4Paginacion.aspx.cs">
+      <DependentUpon>Ps4Paginacion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Ps4Paginacion.aspx.designer.cs">
+      <DependentUpon>Ps4Paginacion.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Site.Master.cs">
       <DependentUpon>Site.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
